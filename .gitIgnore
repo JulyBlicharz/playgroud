@@ -4,3 +4,4 @@ target/
 *.exe
 *.zip
 jdk-15.0.1/
+*.ipr
