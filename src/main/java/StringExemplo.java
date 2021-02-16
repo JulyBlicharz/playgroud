@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class StringExemplo {
 
+   //split
     /*public static void main(String[] args) {
         String csv = "Juiana; 25, Guilherme Alves";
         String [] partesCsv = csv.split ("[,;]");
@@ -12,10 +13,13 @@ public class StringExemplo {
 
 
    public static void main(String[] args) {
+       
+       Integer a = 20;
+
 
 //Exercicio SPLIT -> Scanner + Separar arrays de String
 
-   /*     System.out.println("Enter a line of text: ");
+ /*     System.out.println("Enter a line of text: ");
         String input2 = new Scanner (System.in).nextLine();
 
         String[] parte = input2.split(" "); //espaço

@@ -11,6 +11,7 @@ public class ConvertCharacterInLowerCase {
         Character word = letraC;
 
         return String.valueOf(Character.toLowerCase(word)); // convert Character in a String
+       // return Character.toString(Character.toLowerCase(word));
     }
 
 }

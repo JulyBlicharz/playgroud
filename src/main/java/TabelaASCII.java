@@ -20,6 +20,11 @@ public class TabelaASCII {
           //  for (int i = 0; i < numeros.length; i++) {
           //  System.out.print((char)numeros[i]);
                 //}
+           for (int numero: numeros) {
+           System.out.print(Character.toCharx(numeros));
+
+
+
 
     }
     */
